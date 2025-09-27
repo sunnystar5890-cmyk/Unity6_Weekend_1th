@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/AnimalForest.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/Intro.unity
+    guid: 41df68b8ed3338c4bba0e2bcc3787d88
+  - enabled: 1
+    path: Assets/Scenes/Rigidbody.unity
+    guid: b419b315fd2d6fa4293b8f9fe7889ebe
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
