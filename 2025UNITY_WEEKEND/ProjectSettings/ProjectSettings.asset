@@ -673,10 +673,17 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
+<<<<<<< Updated upstream
   cloudProjectId: 281ada61-f542-40f4-87b3-7afdf34fa09b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: 2025UNITY_WEEKEND 2025-09-20_13-01-42
+=======
+  cloudProjectId: a17e2610-88c0-4bcd-b0d6-9617d7257cfa
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: 2025UNITY_WEEKEND
+>>>>>>> Stashed changes
   organizationId: sunnystar5890
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
